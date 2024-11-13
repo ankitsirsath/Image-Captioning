@@ -1,4 +1,6 @@
 Image Captioning
+
+
 Previous and recent issues faced by not only individuals and businesses but also by
 private sectors, public sectors,  and industries—both small and large—have been
 related to finding easy solutions for handling matters of significant concern. In many
